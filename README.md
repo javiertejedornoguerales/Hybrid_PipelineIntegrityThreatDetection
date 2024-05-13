@@ -1,1 +1,1 @@
-UNDER CONSTRUCTION
+This is the source code of the system presented in the manuscript "A hybrid cascade-parallel discriminative-generative model for pipeline integrity threat detection in a smart fiber optic surveillance system" in Multimedia Tools and Applications journal. Nowadays, it is under construction. For future queries, please contact Javier Tejedor at javier.tejedornoguerales@ceu.es
